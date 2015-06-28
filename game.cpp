@@ -30,6 +30,7 @@ game::game(QMainWindow *parent,result *r) :
 
 game::~game()
 {
+    emit quit(star,score);
     delete ui;
 }
 
