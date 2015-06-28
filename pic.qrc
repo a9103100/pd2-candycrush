@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>candypic/Original/Green.png</file>
+        <file>candypic/Original/Red.png</file>
+        <file>candypic/Original/Yellow.png</file>
+        <file>candypic/Striped/Striped_blue_h.png</file>
+        <file>candypic/Striped/Striped_blue_v.png</file>
+        <file>candypic/Striped/Striped_green_h.png</file>
+        <file>candypic/Striped/Striped_green_v.png</file>
+        <file>candypic/Striped/Striped_red_h.png</file>
+        <file>candypic/Striped/Striped_red_v.png</file>
+        <file>candypic/Striped/Striped_yellow_h.png</file>
+        <file>candypic/Striped/Striped_yellow_v.png</file>
+        <file>candypic/Wrapped/Wrapped_blue.png</file>
+        <file>candypic/Wrapped/Wrapped_green.png</file>
+        <file>candypic/Wrapped/Wrapped_red.png</file>
+        <file>candypic/Wrapped/Wrapped_yellow.png</file>
+        <file>candypic/Colour Bomb/ColourBomb.png</file>
+        <file>8.png</file>
+        <file>0.png</file>
+        <file>1.JPEG</file>
+        <file>5.jpg</file>
+        <file>candypic/Original/Blue.png</file>
+        <file>4.jpg</file>
+        <file>6.jpg</file>
+        <file>7.jpg</file>
+    </qresource>
+</RCC>
